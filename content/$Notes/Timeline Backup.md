@@ -1,3 +1,11 @@
+---
+title:
+draft: true
+tags:
+aliases:
+cssclasses:
+---
+
 # Athaqar'Raxu (AR)
 
 AR comprises of all events before the Nightborn Era. The Reithi advance from hunter–gatherer to complex societies, forming the first true polities and empires around the advent of the Sunborn era, often seen as a golden age before the wars that follow. 

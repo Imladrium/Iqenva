@@ -1,3 +1,11 @@
+---
+title:
+draft: true
+tags:
+aliases:
+cssclasses:
+---
+
 - A precursor species, the Syranui, evolve without magic on a planet called Yruil
 	- The Syranui, over thousands of years, accrue and expand their technological knowledge to create gateway networks between the stars, emulating wormholes connecting systems, orbiting the extremities of each star in their polity
 	- Rooted in atheism, the Syranui elect a government–turned–cult that makes it a priority to become gods themselves

@@ -1,3 +1,11 @@
+---
+title:
+draft: true
+tags:
+aliases:
+cssclasses:
+---
+
 Felari, endonymically known as the Syranui, come from a world known as Yruil. Over time, this relatively standard world would come to experiment upon the Dark Field, leading to the first Catenas. These experimental Catenas decimated research space stations and sometimes entire moons, and public outrage over the continued experimentation upin the Dark Field led to a revolution. The Syranui Union splintered between the capital of Yruil and one of the other planets in the system, Helar. 
 
 Helar would continue to experiment upon the Dark Field, much to the chagrin of the Yruilans. With perseverance however, the first commercially and militarily useful Catenas came into existence, such as ones that could locally alter gravity enough to allow for the creation of exotic matter, and wormholes. Wormholes, known as hyperlanes, were set up by Helaran authorities to access nearby systems. Yruil looked on with worry and envy, as Helar looked outwards to the stars. Diplomatic concessions over access to the hyperlanes involved Yruil reuniting with Helar, reforming the Syranui Union, this time with the capital on a space station orbiting Helar (Ebithrycu Orbital).

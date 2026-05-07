@@ -1,3 +1,11 @@
+---
+title:
+draft: true
+tags:
+aliases:
+cssclasses:
+---
+
 - Catenas have a finite amount of effect upon the world, concentrated spherically around it
 - People and other living things become "attuned" to living near a powerful (Literamantic, Aquamantic) catena, which makes them more powerful but also will result in withdrawal symptoms (severe cases, death) if not within the vicinity of a catena
 - Dānura is made a condominium because of equal access to the catena for the Ancu Realms, and so that people may immigrate there (previously was restricted). Dānurans still trapped on the Island and the Outer Shores because of catenic withdrawal 
