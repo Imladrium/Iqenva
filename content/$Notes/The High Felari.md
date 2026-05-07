@@ -1,0 +1,30 @@
+Felari, endonymically known as the Syranui, come from a world known as Yruil. Over time, this relatively standard world would come to experiment upon the Dark Field, leading to the first Catenas. These experimental Catenas decimated research space stations and sometimes entire moons, and public outrage over the continued experimentation upin the Dark Field led to a revolution. The Syranui Union splintered between the capital of Yruil and one of the other planets in the system, Helar. 
+
+Helar would continue to experiment upon the Dark Field, much to the chagrin of the Yruilans. With perseverance however, the first commercially and militarily useful Catenas came into existence, such as ones that could locally alter gravity enough to allow for the creation of exotic matter, and wormholes. Wormholes, known as hyperlanes, were set up by Helaran authorities to access nearby systems. Yruil looked on with worry and envy, as Helar looked outwards to the stars. Diplomatic concessions over access to the hyperlanes involved Yruil reuniting with Helar, reforming the Syranui Union, this time with the capital on a space station orbiting Helar (Ebithrycu Orbital).
+
+Colonization and expansion of the Syranui Union went on for hundreds of years, unabatedly. Life was sparse in their region of their galaxy, but now and then worlds with habitable conditions and emergent life were found. Different chirality and biochemistry meant that Syranui could not easily adapt to these worlds: however, it eventually became a nascent technology to genetically engineer people and progenitors for populations to suit these different biospheres. Other Syranui would have to sequester themselves from the local biosphere, eating food grown in biodomes and on space stations. 
+Contact with other spacefaring civilizations was sparse: there were two other encounters, one of which was limited to generational ark–ships between the stars of a globular cluster for its empire, not knowing about the Dark Field or the technology of Catenas. The other was aware of Catenas, but was hostile to external interactions.
+
+The Syranui Union splintered over economic and ideological differences, into various countries that reunited into the Syranui Federation. Under Federation control, there was a coup and establishment of a benevolent dictatorship with a unique idea: if Catenas can manipulate Reality, can Reality become as the individual wishes? The Syranui started constructing new Realities with Catenas: creating heaven-like conditions for people living in them. However, many were opposed to this as it became a toy for the rich and required external maintenence. Wars broke out, and the Catenic Heavens were mostly destroyed at great cost. Many of these constructs were based on Yruil and Helar, both being heavily destroyed.
+
+Many individuals fled the chaos of what became known as the Heavenly Wars, out into the backwaters of Syranui space. Cetuāŋa was one of these backwater systems, and in it was a little–known planet called Iqenva. Splinter groups found these reclusive places, some stealing Catenas to create and destroy wormholes as they went, traversing system to system in search of a new home.
+
+The Syranui that came to Iqenva found a neolithic people they called the Reithi. All of the Syranui present agreed on one, common tenet that none of them should ever break: protect Iqenva from the Heavenly Wars. Some Syranui present decided to live on the other planets and moons of Cetuāŋa, not Iqenva itself. Most decided to inhabit the planet, genetically engineering themselves to be compatible with the local biosphere, severing their ties to Yruil once and for all. Many of the Syranui, disillusioned with advanced technology, deliberately decided to live simpler lives, as herdsfolk and in small communities. These would become the progenitors for the Low Felari.
+
+The High Felari were far rarer, only in the dozens and with merely 8 individuals that feature prominently in the affairs of Iqenva. They were the ones that, after all of the wars and conflicts over them, decided to continue with Catenic experiments. They were careful, but wanted to help the Reithi. The issues arose when they began to have disagreements over *how* they would help the Reithi. Some created and placed Catenas around the planet, aimed to help the lives and ease the technological ascendance of the Reithi. This would become [[Literamancy]], the effects of which on Reithi development the Syranui had no ideas of.
+The Wars of Wings and the Nightborn Era would be the tipping point over the discontent many of the Syranui–turned–High Felari had with one another. 
+
+Some, like Qirāsu and Asxiýr wanted to only act defensively against intrusions to the Cētu system, while others like Qiriýtaq wanted to unify the Reithi by force to elevate them faster against the threats of the Heavenly Wars. This conflict would spur internal Reithi violence and divisions, and the deaths of hundreds of thousands in campaigns. None of the High Felari dared to directly engage with one another, out of fear of destroying the planet. The outcome would be Qiriýtaq creating more of his own Catenas, sealing off the continent of [[Anselesna]] to pursue his goals, walking his own path to the planet. Other High Felaru saw the conflict and wanted to shield innocent people from it: the High Felaru Hyanéq made offers to groups on Anselesna of a new life in the oceans to escape the tyranny of Qiriýtaq, becoming the first Velsari.
+
+After the Wars of Wings, most of the High Felari came to the consensus that such an event could never happen again: they maintain a watch on Qiriýtaq and Anselesna, and (mostly) try to keep out of Reithi affairs, though several are now revered as gods or demigods. Some encourage it, others shun it. Reithi now wonder about the mythical wars of the past, how true the effects of them were in the annals of history, and speculate about the Felari connection to the Catenas and the founding of their very religions.
+
+**The 8 Gods:**
+
+- Qiriýtaq
+- Athriýc
+- Isaruiqé
+- Tiýqla
+- Asxiýr
+- Renātac
+- Hyanéq
+- Qirāsu
