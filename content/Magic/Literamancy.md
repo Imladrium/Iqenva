@@ -28,7 +28,7 @@ While there are many types of lesser Catenas on Iqenva, the most famous and impo
 
 Each Literamantic Catena is immovable relative to the planet, and each appears as an ornately carved pedestal of unbreakable and immovable black stone, around 1.6m tall, surmounted by three thin floating 11-rayed stars, intersecting each other orthogonally, emitting a pale light and rotating slowly. The light's hue depends on the Catena; each is unique.
 
-The ground around a Catena has no bearing upon it; for example, the Great Earthquake of Ráemar moved the island westwards by around a metre, but the Catena remained fixed relative to its previous location. The room was redesigned to recentre the Catena once more.
+The ground around a Catena has no bearing upon it; for example, the Great Earthquake of Ráemar moved the island westwards by approximately a metre, but the Catena remained fixed relative to its previous location. The room was redesigned to recentre the Catena once more.
 
 The Catenas are what dictate the laws of Literamancy, but each has an effective range. Some are more advanced than others, providing a greater ability for glyphs within their ranges to effectuate their coded changes upon reality. The efficacy of glyphs decreases the further one gets from a Catena, but the prevalence of Catenas upon Iqenva means that the planet is covered with enough spheres of influence such that glyphs work all over the planet, albeit to different capacities.
 
