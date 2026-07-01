@@ -8,7 +8,7 @@ tags:
 
 # Athaqar'Raxu (AR)
 
-AR comprises of all events before the Nightborn Era. The Reithi advance from hunter–gatherer to complex societies, forming the first true polities and empires around the advent of the Sunborn era, often seen as a golden age before the wars that follow. 
+AR comprises of all events before the Nightborn Era. The Reithi advance from hunter–gatherer to complex societies, and form the first true polities and empires around the advent of the Sunborn era, often seen as a golden age before the wars that follow. 
 
 Meanwhile the Felari start scheming against one another, with interpersonal politics triumphing over the welfare of the planet they swore to defend.
 
