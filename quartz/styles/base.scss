@@ -29,7 +29,7 @@ body {
   border-radius: 5px;
 }
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--secondary) 30%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -88,12 +88,12 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary);
+    color: var(--primary);
   }
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
+    background-color: transparent !important;
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
@@ -103,7 +103,7 @@ a {
       opacity: 0.5;
       transition: opacity 0.2s ease;
       &:hover {
-        opacity: 0.8;
+        opacity: 0.5;
       }
     }
 
@@ -581,7 +581,7 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  border-bottom: 2px hidden var(--gray);
 }
 
 td {
