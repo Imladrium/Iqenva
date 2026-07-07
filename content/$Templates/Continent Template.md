@@ -9,7 +9,7 @@ aliases:
 cssclasses:
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # WIP
 > ![[NulaasiluTopographic.png]]
 > <small><center><i>Topographic map of WIP</i></small></center><br>

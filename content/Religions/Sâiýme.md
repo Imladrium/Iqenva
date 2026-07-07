@@ -7,7 +7,7 @@ aliases:
 cssclasses:
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Sâiýme
 > ![[Saiyme.png]]
 > <small><center><i>The Sâiýme Star, with 11 points for the 11 Literamantic Catenas.</i></small></center><br>

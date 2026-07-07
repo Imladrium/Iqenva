@@ -7,33 +7,7 @@ tags:
 aliases:
   - Iqu
 ---
- >[!infobox|right wikipedia]-
-> ###### Physical Characteristics
-> |‍|‍|
-> | ---- | ---- |
-> | **Mean Radius** | 5425 km<br>0.852 R<sub>⊕</sub>
-> | **Mean<br>Circumference** | 34086 km |
-> | **Surface Area** | 369 872 418<br>km²<br>72.5% SA⊕ |
-> | **Length of Day** | N/A; Tidally Locked |
-> | **Axial Obliquity** | 	10.06° |
-> | **Mass** | 	3.2846 ×10²⁴ kg<br>0.550 M⊕ |
-> | **Density** | 4.95 g/cm³ |
-> | **Gravity** | 7.82 m/s²<br>0.758 g |
-> | **Escape Velocity** | 8.988 km/s |
-> | **Average<br>Surface<br>Temperature** | 18.1 °C (Sunside)<br>-14.9 °C (Starside) |
-> 
-> ###### Orbital Mechanics
-> |‍|‍|
-> | ---- | ---- |
-> | **Periapsis** | 0.2145 AU<br>32 088 743 km
-> | **Apoapsis** | 0.3984 AU<br>59 599 792 km |
-> | **Semi–major Axis** | 0.3165 AU <br>47 347 726 km |
-> | **Eccentricity** | 0.300 |
-> | **Average Orbital Speed** | 41.669 km/s |
-> | **Orbital Period** | 80.0 Earth Days<br>77 Iqenvan Work Days |‍
-
-
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > 
 > # Iqenva
 > ![[iqenva.jpg|cover hsmall]]
@@ -48,9 +22,32 @@ aliases:
 > ###### Atmosphere
 > |‍|‍|
 > | ---- | ---- |
-> | **Atmospheric<br>Pressure at<br>Sea Level** | 2.0 atm |
-> | **Dry<br>Atmospheric<br>Composition** |72.5% N₂<br>25.0% O₂<br>1.7% Ar<br>0.70% CO₂<br><0.10% trace gases |
-> > <small><i><center>See second expandable wikibox for more planetary statistics.</center></i></small>
+> | **Atmospheric Pressure at Sea Level** | 2.0 atm |
+> | **Dry Atmospheric Composition** |72.5% N₂<br>25.0% O₂<br>1.7% Ar<br>0.70% CO₂<br><0.10% trace gases |
+> 
+> ###### Physical Characteristics
+> |‍|‍|
+> | ---- | ---- |
+> | **Mean Radius** | 5425 km<br>0.852 R<sub>⊕</sub>
+> | **Mean Circumference** | 34086 km |
+> | **Surface Area** | 369 872 418<br>km²<br>72.5% SA⊕ |
+> | **Length of Day** | N/A; Tidally Locked |
+> | **Axial Obliquity** | 	10.06° |
+> | **Mass** | 	3.2846 ×10²⁴ kg<br>0.550 M⊕ |
+> | **Density** | 4.95 g/cm³ |
+> | **Gravity** | 7.82 m/s²<br>0.758 g |
+> | **Escape Velocity** | 8.988 km/s |
+> | **Average Surface Temperature** | 18.1 °C (Sunside)<br>-14.9 °C (Starside) |
+> 
+> ###### Orbital Mechanics
+> |‍|‍|
+> | ---- | ---- |
+> | **Periapsis** | 0.2145 AU<br>32 088 743 km
+> | **Apoapsis** | 0.3984 AU<br>59 599 792 km |
+> | **Semi–major Axis** | 0.3165 AU <br>47 347 726 km |
+> | **Eccentricity** | 0.300 |
+> | **Average Orbital Speed** | 41.669 km/s |
+> | **Orbital Period** | 80.0 Earth Days<br>77 Iqenvan Work Days |‍
 
 
 Iqenva is the 1st planet from the K–class star [[Cētu]], and the only astronomical body in the system known to be inhabited by life. The planet is tidally locked to Cētu due to its proximity; though with an unusually high eccentricity and an axial obliquity improbable for such a tidally–locked state, the boundaries of day and night shift over the course of a year. Colloquially, these regions of permanent day and night are known as the '[[Sunside]]' and '[[Starside]]', with the region of temporary day and night colloquially known as the '[[Sunside#Duskring|Duskring]]'. This usage is less standard, and the average location of the terminator line between night and day still denotes the boundary between the Sunside and Starside along the ±90° meridians.

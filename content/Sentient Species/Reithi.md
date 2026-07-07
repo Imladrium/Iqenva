@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Reithi
 > ![[Sunset2.jpg]]
 > <small><center><i>WIP Image</i></small></center><br>

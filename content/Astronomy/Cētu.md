@@ -8,7 +8,7 @@ aliases:
   - Cētu System
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Cētu
 > ![[Cetuana.png]]
 > <small><center><i>Diagram of the Cētu System</i></small></center><br>

@@ -7,10 +7,10 @@ aliases:
   - Ðalţasnâ
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Literamancy
-> ![[RaemarCatena.png]]
-> <small><center><i>The Catena of Ráemar</i></small></center><br>
+> ![[NulaasiluTopographic.png]]
+> <small><center><i>WIP Image</i></small></center><br>
 > ###### Characteristics
 > |||
 > | ---- | ---- |

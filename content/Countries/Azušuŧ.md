@@ -8,7 +8,7 @@ aliases:
   - Durušuŧ
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Azušuŧ
 > ![[WavyAzusut.png]]
 > <small><center><i>From all to two to one.</i></small></center><br>

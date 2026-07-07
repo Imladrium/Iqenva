@@ -7,7 +7,7 @@ aliases:
 cssclasses:
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Name
 > ![[IqenvaTemp.png]]
 > <small><center><i>UwU purr nya mrow~ :3</i></small></center><br>

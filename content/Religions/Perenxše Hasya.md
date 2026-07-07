@@ -1,13 +1,13 @@
 ---
 title:
-draft:
+draft: false
 tags:
   - Religions
 aliases:
 ---
 
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Perenxše Hasya
 > ![[IqenvaTemp.png]]
 > <small><center><i>The Spear and Wing, the de facto symbol of the creed. (WIP, placeholder image)</i></small></center><br>

@@ -7,7 +7,7 @@ aliases:
   - Chudari
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Velsari
 > ![[KelpForest.jpg]]
 > <small><center><i>WIP Image</i></small></center><br>

@@ -1,15 +1,13 @@
 ---
 title:
-draft:
+draft: true
 tags:
-  - Subcontinents
   - Regions
 aliases:
   - Nightside
   - Lanicas
 ---
-
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # WIP
 > ![[NulaasiluTopographic.png]]
 > <small><center><i>Topographic map of WIP</i></small></center><br>
@@ -36,7 +34,7 @@ aliases:
 > | **Catenas** | [[Literamancy]]: #; controlled by WIP<br>[[Aquamancy]]: #; controlled by WIP |
 
 Overview
-
+DRAFT
 
 
 

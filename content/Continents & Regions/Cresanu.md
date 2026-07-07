@@ -9,7 +9,7 @@ aliases:
   - South Ŋašilu
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Cresanu
 > ![[CresanuTopographic.png]]
 > <small><center><i>Topographic map of Cresanu and northern Nulâašilu</i></small></center><br>
@@ -23,7 +23,7 @@ aliases:
 > ###### Demographic Information
 > |||
 > | ---- | ---- |
-> | **Population** | WIP |
+> | **Population** | 60 000 |
 > | **Development** | Medium to High |
 > | **Demonym** | Cresanyi |
 > | **Languages** | WIP |

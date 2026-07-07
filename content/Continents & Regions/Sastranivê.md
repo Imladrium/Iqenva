@@ -11,7 +11,7 @@ aliases:
   - Nríkan Tã
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Sastranivê
 > ![[SastraniveTopographic.png]]
 > <small><center><i>Topographic map of Sastranivê</i></small></center><br>

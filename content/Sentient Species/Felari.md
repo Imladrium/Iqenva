@@ -7,10 +7,10 @@ aliases:
   - Syranui
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Felari
-> ![[AthrycEye.jpg]]
-> <small><center><i>The eye of a Low Felari individual, as painted by an Esin diplomat.</i></small></center><br>
+> ![[Esin Mountains.jpg]]
+> <small><center><i>The mountains of western Esaceš, which have a high density of Low Felari nomads.</i></small></center><br>
 > ###### Origins and Names
 > |||
 > | ---- | ---- |

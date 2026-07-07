@@ -8,7 +8,7 @@ aliases:
   - Xšaŧa
   - Acašyu
 ---
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Gixanêŧāru
 > ![[WavyGixanu.png]]
 > <small><center><i>"Thus Perenxše Declared!"</i></small></center><br>

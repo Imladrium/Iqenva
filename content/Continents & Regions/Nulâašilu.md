@@ -9,7 +9,7 @@ aliases:
   - South Ŋašilu
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Nulâašilu
 > ![[NulaasiluTopographic.png]]
 > <small><center><i>Topographic map of Nulâašilu & southern Cresanu</i></small></center><br>
@@ -23,7 +23,7 @@ aliases:
 > ###### Demographic Information
 > |||
 > | ---- | ---- |
-> | **Population** | WIP |
+> | **Population** | 150 000 000 |
 > | **Development** | Medium to Very High |
 > | **Demonym** | Nulíyan |
 > | **Languages** | Ancu & dialects, Haxīri, Gixane, Azuan, Ilyāni |

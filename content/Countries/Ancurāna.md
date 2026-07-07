@@ -7,7 +7,7 @@ aliases:
   - Blue Kingdom
   - d'Ancuhēŧye
 ---
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Ancurāna
 > ![[WavyAncurana.png]]
 > <small><center><i>Ancurāna máyê e'Ţāna!</i></small></center><br>
@@ -16,7 +16,7 @@ aliases:
 > |||
 > | ---- | ---- |
 > | **Continent** | [[Nulâašilu]] |
-> | **Area** | ~WIP km² |
+> | **Area** | ~1 500 000 km² |
 > | **Vegetation Delineations** | Predominantly Blue |
 > 
 > ###### Demographic Information

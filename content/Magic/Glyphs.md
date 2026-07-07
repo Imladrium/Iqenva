@@ -6,9 +6,9 @@ tags:
 aliases:
 ---
 
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Glyphs
-> ![[RaemarCatena.png]]
+> ![[NulaasiluTopographic.png]]
 > <small><center><i>WIP Image</i></small></center><br>
 > ###### Characteristics
 > |||

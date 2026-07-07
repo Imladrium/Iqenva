@@ -6,9 +6,9 @@ tags:
 aliases:
   - Catenas
 ---
-> [!infobox|right wikipedia]+
+> [!infobox|right wikipedia]
 > # Catenas
-> ![[RaemarCatena.png]]
+> ![[NulaasiluTopographic.png]]
 > <small><center><i>The Catena of Ráemar</i></small></center><br>
 
 Catenas act as conduits that alter how the Dark Field interacts with reality, leading to localized regions of space where the laws of physics can be different from the standard. They form the basis for all of the Catenic Arts, and are used across all formerly–[[Felari|Syranui]] space, including Iqenva.
