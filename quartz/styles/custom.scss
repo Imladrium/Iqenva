@@ -20,6 +20,7 @@
         border-radius: 0.25rem;
       }
 }
+
 ul.explorer-ul li {
 a {
         &.active,
@@ -29,7 +30,28 @@ a {
           color: var(--secondary);
           background-color: transparent;
           border-radius: 0.25rem;
-	}
+	}}}}
+
+a.internal-link svg {
+  display: none;
 }
+a.external-link svg {
+  display: none;
 }
+
+h1[id]>a[href^=\#],
+h2[id]>a[href^=\#],
+h3[id]>a[href^=\#],
+h4[id]>a[href^=\#],
+h5[id]>a[href^=\#],
+h6[id]>a[href^=\#] { margin:0rem; }
+
+  .callout.callout[data-callout~="infobox"]:not(.is-collapsed)
+  > .callout-title {
+  padding: 0;
+    display: none;
 }
+
+  .table-container>table>* {
+    line-height:1.35em;
+  }
